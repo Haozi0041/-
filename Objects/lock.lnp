@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\lcd1602.obj",
+".\Objects\ICC.obj" 
+TO ".\Objects\lock" 
+PRINT(".\Listings\lock.m51") RAMSIZE(256) 
